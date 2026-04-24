@@ -1,2 +1,39 @@
-# Phishing-Detection-System
-AI-powered phishing website detection system using Machine Learning, built in Google Colab with Python and Scikit-learn.
+# Phishing Detection System
+
+## Overview
+This project is a Machine Learning based phishing website detection system developed in Google Colab. It predicts whether a website is legitimate or phishing using URL and security related features.
+
+## Features
+- Data preprocessing
+- Feature engineering
+- Multiple ML model comparison
+- Best model selection
+- Confusion matrix visualization
+- Accuracy comparison charts
+- Website phishing prediction
+
+## Technologies Used
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Joblib
+
+## Models Used
+- Logistic Regression
+- Random Forest
+- Support Vector Machine
+- KNN
+
+## Project Structure
+
+Phishing-Detection-System/
+│── notebooks/
+│── data/
+│── models/
+│── outputs/
+│── README.md
+│── requirements.txt

@@ -28,6 +28,8 @@ This project is a Machine Learning based phishing website detection system devel
 - Support Vector Machine
 - KNN
 
+Trained model file omitted due to size limits. Model can be regenerated using notebook 04_model_training.ipynb
+
 ## Project Structure
 
 Phishing-Detection-System/
